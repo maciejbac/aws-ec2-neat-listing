@@ -15,3 +15,4 @@ Example output:
 |  1.1.1.2      |  i-xxxxxxxxxxxxxxxxx |  instanceName2      |  Docker testing                |
 |  1.1.1.3      |  i-xxxxxxxxxxxxxxxxx |  instanceName3      |  Prod                          |
 +---------------+----------------------+---------------------+--------------------------------+
+
