@@ -13,6 +13,6 @@ Example output:
 +---------------+----------------------+---------------------+--------------------------------+
 |  1.1.1.1      |  i-xxxxxxxxxxxxxxxxx |  instanceName1      |  Packer testing                |
 |  1.1.1.2      |  i-xxxxxxxxxxxxxxxxx |  instanceName2      |  Docker testing                |
-|  1.1.1.3      |  i-xxxxxxxxxxxxxxxxx |  instanceName3      |  Prod                          |
+|  1.1.1.3      |  i-xxxxxxxxxxxxxxxxx |  instanceName3      |  Production environment        |
 +---------------+----------------------+---------------------+--------------------------------+
 </pre>
