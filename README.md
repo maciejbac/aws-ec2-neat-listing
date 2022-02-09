@@ -2,7 +2,7 @@
 Human readable output of all VMs in EC2 environment including their IP addresses and tags
 
 
-Note field requires a 'Note' tag attached to the ec2 instance
+Note field requires a 'Note' tag attached to the ec2 instance.
 
 Example output:
 <pre>
